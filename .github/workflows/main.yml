@@ -8,7 +8,7 @@ on:
       - main
 
 jobs:
-    ci-pipeline:
+  ci-pipeline:
     runs-on: ubuntu-latest
 
         steps;
